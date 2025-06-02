@@ -1,0 +1,8 @@
+.idea
+.env
+bin/
+
+*.exe
+go.mod
+go.sum
+
